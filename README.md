@@ -1,4 +1,4 @@
-# ProyectoAlluraLatam
+# ProyectoAluraLatam
 Actividad de AluraLatam 
 
 ¡Bienvenidos al primer desafío!
